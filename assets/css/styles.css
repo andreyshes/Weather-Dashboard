@@ -1,0 +1,48 @@
+:root {
+	--darkgray: rgba(87, 90, 94);
+	--lightgray: rgb(222, 219, 218);
+	--softwhite: rgba(255, 255, 255);
+	--blue: rgba(13, 84, 214);
+}
+
+body {
+	font-family: "Merriweather", serif, sans-serif;
+	background-color: var(--lightgray);
+	color: var(--softwhite);
+}
+
+.jumbotron {
+	background-color: var(--darkgray);
+}
+
+.btn {
+	background-color: var(--blue);
+}
+
+li {
+	border: solid var(--darkgray);
+}
+
+.form-label {
+	color: var(--darkgray);
+}
+#main-card,
+#weekly-header {
+	color: var(--darkgray);
+}
+
+#search-history-title {
+	color: var(--darkgray);
+}
+
+section {
+	background-color: var(--darkgray);
+}
+
+/* #search-wrapper{
+     border: 2px solid blue; 
+} 
+
+i{
+    border: 2px solid blue; 
+}  */
