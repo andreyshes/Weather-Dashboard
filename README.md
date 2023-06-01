@@ -2,7 +2,7 @@
 
 ## Descirption
 
-
+An application that provides you with a 5-day forcast for a given city entered
 
 
 ## User Story
@@ -27,3 +27,5 @@ THEN I am again presented with current and future conditions for that city
 
 
 ## Credits
+
+Andrey Shestopal
